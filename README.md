@@ -33,7 +33,7 @@ python -m pip install -r requirements-dev.txt
 ## Запуск примера
 
 ```bash
-python -I rag_context_demo.py
+python -X utf8 -I rag_context_demo.py
 ```
 
 Ожидаемый вывод:
